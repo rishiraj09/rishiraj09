@@ -47,7 +47,7 @@ Portfolio Site 🔗 [rishirajsalam.com](https://rishirajsalam.com/)
 #
 ### Stats
 
-<img align="left" width="47%" alt="git stat" src="https://github-readme-stats.vercel.app/api?username=rishiraj09&show_icons=true&theme=merko" />
-<img width="40%" alt="language stat" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />          
+<img align="left" height="185rem" alt="git stat" src="https://github-readme-stats.vercel.app/api?username=rishiraj09&show_icons=true&theme=merko" />
+<img height="185rem" alt="language stat" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />          
           
           
