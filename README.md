@@ -21,6 +21,7 @@ Portfolio Site 🔗 [rishirajsalam.com](https://rishirajsalam.com/)
 ### Frameworks & Libraries
 
 <img align="left" alt="NodeJs" width="35px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="expressjs" style="padding-right:10px" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
 <img align="left" alt="Flask" style="padding-right:10px" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
 <img align="left" alt="Django" width="35px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 <img alt="React" width="35px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -40,7 +41,7 @@ Portfolio Site 🔗 [rishirajsalam.com](https://rishirajsalam.com/)
 <img align="left" alt="linux" width="35px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="mac" width="35px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
 <img align="left" alt="windows" width="35px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-<img align="left" alt="aws" width="35px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="left" alt="aws" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img alt="aws" width="35px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" />
                  
 #
